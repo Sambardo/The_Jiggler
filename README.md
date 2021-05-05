@@ -7,3 +7,6 @@ When it happened I often had to crash and relaunch the games instead of being ab
 It presses F15 every 6 minutes. 
 
 I might add a GUI later for funsies. 
+
+This is useful if you want to add alt/shift/ctrl 
+https://ss64.com/vb/sendkeys.html
